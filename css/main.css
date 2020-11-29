@@ -14,12 +14,12 @@ h1 {
   text-align: center;
 }
 
-ul.numbers li {
+ul#numbers li {
   display: inline;
   marker: none;
 }
 
-ul.numbers li button {
+ul#numbers li button {
   border: none;
   padding: 5px 13px 5px 13px;
   font-size: 32px;
